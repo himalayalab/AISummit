@@ -1,0 +1,218 @@
+{
+  "Header": {
+    "title": "Bengaluru AI Summit",
+    "paragraph": "A pulsating community of web3 builders in Bangalore, and spreading across other cities in India."
+  },
+  "About": {
+    "paragraph": "We are on a mission to galvanise the DeFi space, to make India a Global DeFi Hub, and a destination for talent exchange. We host regular weekly Meetups and community activities in and around Bangalore, and will be hosting DeFi workshops all over India to educate the masses. We are a web3 native, with unique create-to-earn opportunities for all our members. Members will get to learn every web3 primitive, and work with other degens leading the space. We also aim to kickstart a defidegen DAO for building on web3. We welcome degens from every field, in every skill level. Come feel the MAGIC of DeFi!",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Speaker 1",
+      "text": "Info"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Speaker 2",
+      "text": "Info."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Speaker 3",
+      "text": "Info"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Speaker 4",
+      "text": "Info"
+    }
+  ],
+
+  "Agenda":[
+    {
+      "name": "Morning",
+      "events": [
+        "8:00 AM – 9:00 AM: Registration & Networking Breakfast, Attendees check in, collect event badges",
+        "9:00 AM – 9:15 AM: Opening Remarks – Speaker: [Event Host/Organization Leader] – Introduction to the event, the fusion of Web3 with AI.",
+        "9:15 AM – 10:00 AM: Keynote: AI-Driven Web3: Building Smarter Decentralized Systems",
+        "10:00 AM – 10:45 AM: Panel Discussion: DeFi Meets AI: Automating Financial Ecosystems",
+        "10:45 AM – 11:00 AM: Coffee Break & Networking",
+        "11:00 AM – 12:00 PM: Workshop: AI-Powered NFTs: Revolutionizing Digital Art and Ownership"
+      ]
+    },
+    {
+      "name": "Afternoon",
+      "events": [
+        "12:00 PM – 1:30 PM: Lunch Break & Innovation Showcase",
+        "1:30 PM – 2:15 PM: Fireside Chat: Web3 Meets Generative AI",
+        "2:15 PM – 3:00 PM: Panel: Regenerative Finance (ReFi) and AI"
+      ]
+    },
+    {
+      "name": "Evening",
+      "events": [
+        "3:00 PM – 3:15 PM: Coffee Break & Networking",
+        "3:15 PM – 4:00 PM: Presentation: Cross-Chain AI Solutions: Enhancing Blockchain Interoperability",
+        "4:00 PM – 4:45 PM: Roundtable: AI Ethics in Decentralized Systems: Data Privacy, Autonomy, and Governance",
+        "4:45 PM – 5:30 PM: Pitch Competition: AI-Powered Web3 Startups",
+        "5:30 PM – 6:00 PM: Closing Remarks & Awards Ceremony ",
+        "6:00 PM – 8:00 PM: Evening Networking Reception "
+      ]
+    }
+  ]
+  
+}
