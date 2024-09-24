@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AISummit/static/css/main.ae42ac5f.css",
+    "main.js": "/AISummit/static/js/main.5d77e6ae.js",
+    "index.html": "/AISummit/index.html",
+    "main.ae42ac5f.css.map": "/AISummit/static/css/main.ae42ac5f.css.map",
+    "main.5d77e6ae.js.map": "/AISummit/static/js/main.5d77e6ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.5d77e6ae.js"
+  ]
+}
