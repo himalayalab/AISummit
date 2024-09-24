@@ -1,5 +1,5 @@
 {
-   "name": "summit-web",       
+   "name": "landingpage-react-template",       
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
